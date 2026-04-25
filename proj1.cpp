@@ -1,11 +1,4 @@
 /*
-File: proj1.cpp
-Project: CMSC 202 Project 1, Fall 2021
-Author: Sakar Ojha
-Date: 2/22/2025
-Section:21
-Email: o66@umbc.edu
-
 This file contains the code for a tic-tac-toe game that is playyed between 2 players
 Lets the user play again or quit and Displays output as the game goes on while also 
 saving the output in a different .txt file.
