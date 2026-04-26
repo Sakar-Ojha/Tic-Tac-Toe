@@ -32,8 +32,8 @@ It also helped strengthen problem-solving and logical thinking skills.
 ## Project Structure
 ```text
 .
-├── proj1.cpp              # Main source code file
-├── Proj1 Sample.docx      # Sample output / example run
+├── tic-tac-toe.cpp        # Main source code file
+├── Sample.docx            # Sample output / example run
 ├── proj1_data.txt         # Output file of the results
 └── README.md              # Project documentation
 ```
@@ -52,7 +52,7 @@ cd tic-tac-toe
 Use g++ or any C++ compiler:
 
 ```bash
-g++ proj1.cpp -o tic_tac_toe
+g++ tic-tac-toe.cpp -o tic_tac_toe
 ```
 
 ### 3. Run the Program
@@ -111,7 +111,7 @@ Enter row and column: 2 2
    |   |  
 ```
 
-> A full example run is included in `Proj1 SAmple.docx`
+> A full example run is included in `Sample.docx`
 > ## Screenshot
 
 ![Tic Tac Toe Gameplay](tic-tac-toe-screenshot.png)
