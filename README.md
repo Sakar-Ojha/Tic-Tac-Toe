@@ -112,7 +112,9 @@ Enter row and column: 2 2
 ```
 
 > A full example run is included in `Proj1 SAmple.docx`
-> ![Game Screenshot](Screenshot 2026-04-26 120333.png)
+> ## Screenshot
+
+![Tic Tac Toe Gameplay](tic-tac-toe-screenshot.png)
 
 ---
 
